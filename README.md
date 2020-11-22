@@ -9,5 +9,4 @@ It gives choices to:
 a) load both user and password wordlists or 
 b) defining the usernames but loading the password wordlist only.
 
-#happy hacking my buddies
-#remember, changing the author name, doesn't make you the author of the script
+#happy hacking
